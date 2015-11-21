@@ -1,0 +1,1208 @@
+#NAME:English (UK)
+[common]
+3BEB0AE437FA2F12=centre
+E6B5A6A65044C93D=Reset colour
+941DEA15C4817EEC=Set colour...
+8C66AD45F2B879B1=Quantise to:
+AF427D96E302B145=Customised menu:
+DB0FEB13427E7035=Custom track colours
+0ED5B16414C9FBEC=Item and take colours
+AF8FB722E2FC29EA=Normalise items
+B622D171EE197539=Normalise items (common gain)
+1AAC225BC2D18F76=Quantise item positions to grid...
+20EE79BDD1264889=Reset selected points to zero/centre
+807AD2DC48AC8DC8=Set active takes to custom colour...
+0704D964EA4B33E0=Set active takes to default colour
+EB6A3F98C6F7C92A=Set active takes to one random colour
+628E594012CC7C5B=Set all takes of selected items to default colour
+020D3467C33B79B0=Set items to custom colour...
+31DD29D6185E7EC8=Set items to default colour
+6C8CB6E8F2159B02=Set items to one random colour
+A68ABA1C0EA6CE27=Set items to random colours
+2A155A1A970AC2FE=Set tracks to custom colour...
+639DD13915D0BDD2=Set tracks to default colour
+27450F3A019ACFE8=Set tracks to one random colour
+AB902561E815401D=Set tracks to random colours
+2504EFBB70A00BF0=Reset points to zero/centre
+A752FB9BC4EC6C8C=Initialising...
+D6FAC22FB212CB64=Clear colour map (use default)
+AAD780F2936DFA0C=Colour notes by
+91E3DBF71C5D78E4=Customise menus/toolbar...
+D57975D16046D5B2=Customise note colours
+5DCA5705AA5A2FCE=Customise note names
+97A35548BE7EAAB4=Humanise...
+DFBC279E68B89582=Load colour map from file...
+094D37BBB2035D08=Quantise
+809D9AA3B4306FA0=Quantise position to grid
+3410CCD7F87501B1=Quantise using last settings
+596C077CE46E04EE=Quantise...
+B7F8226EA3A3E4D4=Show colour selector at bottom of editor
+1A360D9AC072403B=Source, using colour map
+5F02ABE17A3B29CB=Unquantise
+0E44CD2EEA4BA863=Humanise notes...
+8BEB3C381FB2F1CE=Colour
+
+[DLG_102] ; IDD_MAIN
+246546A2AD3EB0B4=REAPER (initialising)
+
+[DLG_103] ; IDD_CFG_WAVEOUT
+
+[DLG_104] ; IDD_CFG_ASIO
+
+[DLG_110] ; IDD_CHANNELVIEW
+
+[DLG_118] ; IDD_PREFS_AUDIOCONFIG
+
+[DLG_120] ; IDD_MISCSRCINFO
+
+[DLG_121] ; IDD_ABOUT
+
+[DLG_122] ; IDD_CLICKITEMINFO
+
+[DLG_124] ; IDD_RENDERPROCDLG
+
+[DLG_125] ; IDD_SECTIONITEMINFO
+
+[DLG_126] ; IDD_PROJECTSETTINGS_SETTINGS
+
+[DLG_127] ; IDD_PROJECTSETTINGS
+
+[DLG_128] ; IDD_PREFERENCES
+
+[DLG_129] ; IDD_PROJECTSETTINGS_RECORDING
+
+[DLG_130] ; IDD_KEEPDELFILES
+
+[DLG_131] ; IDD_FX
+
+[DLG_132] ; IDD_FXADD
+
+[DLG_133] ; IDD_FXSCAN
+
+[DLG_134] ; IDD_PEAKSBUILD
+
+[DLG_135] ; IDD_UNKNOWNITEMINFO
+
+[DLG_136] ; IDD_PREFS_PLAY
+
+[DLG_137] ; IDD_PREFS_REC
+
+[DLG_138] ; IDD_PREFS_MEDIA
+
+[DLG_139] ; IDD_PREFS_GEN
+
+[DLG_140] ; IDD_ALIASLIST
+
+[DLG_141] ; IDD_ALIASITEM
+
+[DLG_142] ; IDD_MISSINGFILEPROMPT
+
+[DLG_143] ; IDD_JUMPTOTIME
+
+[DLG_145] ; IDD_PREFS_COLORTHEME
+CF911199798E69B9=Theme colour/font controls:
+
+[DLG_146] ; IDD_FX_UNKN
+
+[DLG_147] ; IDD_FXTAB
+
+[DLG_148] ; IDD_KBHELP
+
+[DLG_149] ; IDD_MASTERCHANVIEW
+
+[DLG_150] ; IDD_CHANMIXERVIEW
+
+[DLG_151] ; IDD_MIXER
+
+[DLG_152] ; IDD_VSTHOST
+
+[DLG_153] ; IDD_PREFS_MIDI
+
+[DLG_154] ; IDD_PREFS_PLUGINS
+
+[DLG_155] ; IDD_WAVESINK_CFG
+
+[DLG_156] ; IDD_PREFS_AUDIO
+
+[DLG_157] ; IDD_PREFS_CSURF
+
+[DLG_158] ; IDD_SURFACEEDIT
+
+[DLG_159] ; IDD_DIRCLEANUP
+
+[DLG_160] ; IDD_PREFS_EDITORS
+
+[DLG_161] ; IDD_EDITORITEM
+
+[DLG_163] ; IDD_AUXSENDVIEW
+
+[DLG_164] ; IDD_FILECOPY
+
+[DLG_165] ; IDD_SETENVPTVAL
+
+[DLG_166] ; IDD_VSTGUI_GENHOST
+
+[DLG_168] ; IDD_PROJECTSETTINGS_NOTES
+
+[DLG_169] ; IDD_MARKEREDIT
+
+[DLG_170] ; IDD_UNDOHIST
+
+[DLG_171] ; IDD_CONSOLDLG
+
+[DLG_172] ; IDD_PREFS_EDITCFG
+347BEF6E7C817645=Vertical zoom centre:
+584AC3CE0E6BC82B=Horizontal zoom centre:
+
+[DLG_173] ; IDD_LTCITEMINFO
+
+[DLG_174] ; IDD_DOCK
+
+[DLG_175] ; IDD_FXSAVE
+
+[DLG_176] ; IDD_REGIONEDIT
+
+[DLG_178] ; IDD_PREFS_DEFS_TRACK
+
+[DLG_179] ; IDD_FXRENAME
+117649134D9E71CF=Categorise as Instrument
+
+[DLG_180] ; IDD_CPUMETER
+
+[DLG_181] ; IDD_NEWVER
+
+[DLG_182] ; IDD_ROUTING
+
+[DLG_183] ; IDD_FXCOMMENT
+
+[DLG_184] ; IDD_TSMARKEREDIT
+
+[DLG_185] ; IDD_SAVEOPTIONS
+
+[DLG_186] ; IDD_BROWSEMKDIR
+
+[DLG_187] ; IDD_MKDIR
+
+[DLG_188] ; IDD_TRANSPORT
+
+[DLG_189] ; IDD_FXFLOAT
+
+[DLG_190] ; IDD_FX_FLOAT
+
+[DLG_192] ; IDD_NEWJS
+
+[DLG_193] ; IDD_TRACKENVCTL
+
+[DLG_194] ; IDD_TRACKSENDCTL
+
+[DLG_196] ; IDD_AUXSENDCTL_CHILD2
+
+[DLG_197] ; IDD_NAVIGATOR
+
+[DLG_199] ; IDD_SNAPSETTINGS
+
+[DLG_200] ; IDD_PANLAWCTL
+
+[DLG_201] ; IDD_PANLAWCTL2
+
+[DLG_202] ; IDD_MASTERVUSETTINGS
+
+[DLG_203] ; IDD_PREFS_AUDIOBUF
+0AA71620AD705B69=Optimise buffering for low latency hardware (recommended)
+2F2715B3B43668D6=Use native events for synchronising (recommended)
+
+[DLG_204] ; IDD_ABOUT_LICENSE
+
+[DLG_206] ; IDD_AUXSENDCTL_CHILD3
+
+[DLG_209] ; IDD_PREFS_PLUGINS_DX
+
+[DLG_210] ; IDD_PREFS_PLUGINS_VST
+
+[DLG_212] ; IDD_PREFS_PROJECT
+
+[DLG_213] ; IDD_PREFS_APPEAR
+4DCB5D3E3620F765=Set track label background to custom track colours
+
+[DLG_214] ; IDD_PREFS_AUDIOCONFIG2
+
+[DLG_215] ; IDD_PREFS_EDIT_MOUSE
+
+[DLG_218] ; IDD_LOCKSETTINGS
+
+[DLG_219] ; IDD_PREFS_KBD
+
+[DLG_221] ; IDD_PREFS_KBDFIND
+
+[DLG_222] ; IDD_DOCKER
+
+[DLG_223] ; IDD_REMOVE_SILENCE
+
+[DLG_224] ; IDD_QUANTIZE_ITEMS
+E51495C599FCAA9B=Quantise Item Positions
+447B4AAD0BD404E2=Shorten earlier items if quantised items overlap by more than
+6F72BABC300F7828=Quantise item ends and stretch item to fit
+
+[DLG_226] ; IDD_SETSRCOPTS
+
+[DLG_227] ; IDD_PREFS_REAMOTE
+
+[DLG_228] ; IDD_REAMOTESEARCH
+
+[DLG_229] ; IDD_REWIREHOST
+
+[DLG_230] ; IDD_REWIRE_MIDI_INPUTS
+
+[DLG_233] ; IDD_PREFS_REWIREDISABLEDCONFIG
+
+[DLG_234] ; IDD_PREFS_AUDIODISK
+
+[DLG_235] ; IDD_PREFS_REAMOTENEW
+
+[DLG_236] ; IDD_PREFS_MEDIAVU
+
+[DLG_237] ; IDD_REAMOTE_PLUGINLIST
+
+[DLG_238] ; IDD_METRONOMECFG
+
+[DLG_239] ; IDD_VKEY
+C66260A5E9840B6E=Centre note (right click a key to set):
+
+[DLG_240] ; IDD_BIGCLOCK
+
+[DLG_241] ; IDD_MIDILEARN
+
+[DLG_242] ; IDD_BOUNCEDLG
+
+[DLG_243] ; IDD_SCREENSETS
+
+[DLG_247] ; IDD_SCREENSETS_SAVE
+
+[DLG_250] ; IDD_SCREENSETS_SAVE_VIEW
+
+[DLG_252] ; IDD_PREFS_GENADV
+
+[DLG_253] ; IDD_MIXER_MASTER
+
+[DLG_254] ; IDD_TOOLBARHOST
+
+[DLG_255] ; IDD_SCREENSETS_AUTOSAVE
+
+[DLG_256] ; IDD_MIDIMPORT
+
+[DLG_257] ; IDD_PREFS_MEDIA_MIDI
+
+[DLG_258] ; IDD_MIDIINQUANT
+7EF01C0F00285F1F=Quantise track MIDI recording
+55394499F9E9C331=Quantise note-offs
+798585D3B4E00D0F=Quantise within:
+
+[DLG_259] ; IDD_SINKCONFIG
+
+[DLG_261] ; IDD_CFG_DUMMY
+
+[DLG_262] ; IDD_TCCONFIG
+43091CDD5367E425=Synchronise by seeking ahead:
+4702C127062CF8F4=Re-synchronise if drift exceeds:
+
+[DLG_263] ; IDD_MIDIOUT_CONFIG
+
+[DLG_264] ; IDD_PLUGIN_PIN
+
+[DLG_265] ; IDD_AUHOST
+
+[DLG_268] ; IDD_PROGRAMENV
+
+[DLG_269] ; IDD_BUTTONFINDER
+6ABB4CD6D4ADA635=Highlight selected colours/images:
+DBC27AD0934AAF0B=Find colour:
+F39EB4BC3304012B=Note: Not all colours and images are visible at all times!
+
+[DLG_270] ; IDD_GLUEDLG
+
+[DLG_273] ; IDD_OPENPROJECT
+
+[DLG_274] ; IDD_ACTIONS
+
+[DLG_275] ; IDD_ACTION_USERACCEL
+
+[DLG_276] ; IDD_ACTIONS_CUSTOM
+
+[DLG_277] ; IDD_RENAME
+
+[DLG_280] ; IDD_DYNAMIC_SPLIT
+
+[DLG_281] ; IDD_TRACKGROUP
+
+[DLG_282] ; IDD_TIMESIG
+
+[DLG_283] ; IDD_ROUTING_HDR
+
+[DLG_284] ; IDD_SAVEOPTIONS_TEMPLATE
+
+[DLG_285] ; IDD_MIDICONSOL
+
+[DLG_286] ; IDD_ITEMNOTES
+
+[DLG_287] ; IDD_ENVCTL
+
+[DLG_288] ; IDD_THEMEBLENDMODE
+
+[DLG_289] ; IDD_PREFS_CLASSICTHEMESTUFF
+
+[DLG_290] ; IDD_REMOVE_ENV
+
+[DLG_291] ; IDD_ENV_PRUNE
+
+[DLG_292] ; IDD_JOYSTICKDEF
+
+[DLG_421] ; IDD_FXPARMRENAME
+
+[DLG_422] ; IDD_CFG_WASAPI
+
+[DLG_423] ; IDD_UNKNOWN_PROJITEMS
+
+[DLG_424] ; IDD_MIDILEARN_DEFSELMODE
+
+[DLG_425] ; IDD_MIDIIN_CONFIG
+
+[DLG_426] ; IDD_WAITFORDEVICE
+
+[DLG_427] ; IDD_RENDERQ
+
+[DLG_428] ; IDD_RPPDROPDLG
+
+[DLG_435] ; IDD_VSTBRIDGECHILD
+
+[DLG_436] ; IDD_APIINPUT
+
+[DLG_437] ; IDD_APICONSOLE
+
+[DLG_438] ; IDD_CUSTOMIZE_MENU
+222DCE917817ADCF=Customise menus/toolbars
+
+[DLG_440] ; IDD_INSERT_MULTIPLE_TRACKS
+
+[DLG_441] ; IDD_CUSTOMMENURENAME
+
+[DLG_443] ; IDD_CONSOLE
+
+[DLG_444] ; IDD_CONVERTER
+
+[DLG_446] ; IDD_ICONPICKER
+
+[DLG_447] ; IDD_PREFS_ENVELOPES
+
+[DLG_448] ; IDD_TOOLBAR_FLOATING
+
+[DLG_449] ; IDD_PREFS_MEDIA_VIDEO
+
+[DLG_452] ; IDD_EMPTYITEMINFO
+
+[DLG_455] ; IDD_PROMPTFORPREF
+
+[DLG_456] ; IDD_PROJBAY
+
+[DLG_457] ; IDD_PROJBAY_VIEW
+
+[DLG_458] ; IDD_PREFS_APPEAR_METERS
+
+[DLG_459] ; IDD_PREFS_APPEAR_PEAKS
+3DFD497C7C3587C8=Custom colours
+821B3CD32107333D=Track colour
+58DD9C13D7CF119F=Item colour
+0463F1E16451698B=Take colour
+E4DC0CDFF2939210=Automatically colour any recording pass that adds new takes to existing media items
+10EEA01CE7AD98F1=Set custom track colours from the Track menu, custom item and take colours from the Item menu.
+7467DBA1281E1C66=Automatically colour any media items that share pooled MIDI events
+
+[DLG_464] ; IDD_REWIRESLAVE
+
+[DLG_465] ; IDD_TABTOTRANS
+
+[DLG_466] ; IDD_PREFS_EDIT_MOUSEMAP
+
+[DLG_467] ; IDD_NUDGE
+
+[DLG_468] ; IDD_PIPBUILD
+
+[DLG_469] ; IDD_TRACKMGR
+
+[DLG_470] ; IDD_MAC_OKCANCEL
+
+[DLG_471] ; IDD_GET_LICECAP
+
+[DLG_472] ; IDD_WAITINGFORSYNC
+
+[DLG_473] ; IDD_PREFS_AUDIOCONFIG_MAC
+
+[DLG_474] ; IDD_PREFS_PATH
+
+[DLG_475] ; IDD_MEDIAITEMPROPS
+4213D3F219BE80B6=&Normalise
+
+[DLG_476] ; IDD_XFADE_ADJ
+
+[DLG_477] ; IDD_PREFS_DEFS_ITEM
+
+[DLG_478] ; IDD_PREFS_RENDER
+
+[DLG_486] ; IDD_CONFIG_EXPORT
+
+[DLG_487] ; IDD_CONFIG_IMPORT
+
+[DLG_488] ; IDD_SCREENSETS_CHILD
+
+[DLG_490] ; IDD_PREFS_MIDIEDITOR
+35889979F7713B9D=Default note colour map:
+
+[DLG_504] ; IDD_SCALEFINDER
+
+[DLG_505] ; IDD_PREFS_PLUGINS_COMPAT
+
+[DLG_506] ; IDD_RENDERDLG1
+
+[DLG_507] ; IDD_AUTOMUTE
+
+[DLG_508] ; IDD_REGIONMGR
+
+[DLG_509] ; IDD_RENDERWARN
+
+[DLG_510] ; IDD_PITCHENVCFG
+
+[DLG_511] ; IDD_WILDCARD_HELP
+
+[DLG_512] ; IDD_PROJECTSETTINGS_ADV
+
+[DLG_513] ; IDD_FREEZE
+
+[DLG_514] ; IDD_PIPBUILD_WAIT
+
+[DLG_515] ; IDD_PREFS_PLUGINS_REASCRIPT
+
+[DLG_516] ; IDD_LANG
+
+[MENU_102] ; IDR_MENU1
+C5195E985A673C97=Expand selected tracks, minimise others
+754C0069B8672878=Minimise all tracks
+2553C56820D6750B=Customise menus/toolbars...
+
+[MENU_136] ; IDR_MENU2
+
+[MENU_144] ; IDR_FXMENU
+
+[MENU_175] ; IDR_FXADDMENU
+
+[MENU_300] ; IDR_CONTEXTS_0
+
+[MENU_301] ; IDR_CONTEXTS_1
+
+[MENU_302] ; IDR_CONTEXTS_2
+
+[MENU_303] ; IDR_CONTEXTS_3
+
+[MENU_304] ; IDR_CONTEXTS_4
+
+[MENU_305] ; IDR_CONTEXTS_5
+
+[MENU_306] ; IDR_CONTEXTS_6
+
+[MENU_307] ; IDR_CONTEXTS_7
+
+[MENU_308] ; IDR_CONTEXTS_8
+
+[MENU_309] ; IDR_CONTEXTS_9
+
+[MENU_310] ; IDR_CONTEXTS_10
+
+[MENU_311] ; IDR_CONTEXTS_11
+
+[MENU_312] ; IDR_CONTEXTS_12
+
+[MENU_313] ; IDR_CONTEXTS_13
+
+[MENU_314] ; IDR_CONTEXTS_14
+
+[MENU_315] ; IDR_CONTEXTS_15
+
+[MENU_316] ; IDR_CONTEXTS_16
+2F1A2D2EDC0F2083=Centre transport controls
+
+[MENU_317] ; IDR_CONTEXTS_17
+
+[MENU_318] ; IDR_CONTEXTS_18
+
+[MENU_319] ; IDR_CONTEXTS_19
+
+[MENU_320] ; IDR_CONTEXTS_20
+
+[MENU_321] ; IDR_CONTEXTS_21
+
+[MENU_322] ; IDR_CONTEXTS_22
+
+[MENU_323] ; IDR_CONTEXTS_23
+
+[MENU_324] ; IDR_CONTEXTS_24
+
+[MENU_325] ; IDR_CONTEXTS_25
+
+[MENU_326] ; IDR_CONTEXTS_26
+
+[MENU_327] ; IDR_CONTEXTS_27
+
+[MENU_328] ; IDR_CONTEXTS_28
+
+[MENU_329] ; IDR_CONTEXTS_29
+
+[MENU_330] ; IDR_CONTEXTS_30
+
+[MENU_331] ; IDR_CONTEXTS_31
+
+[MENU_332] ; IDR_CONTEXTS_32
+19913BC408CBC6BF=Synchronise play start times w/ play background projects
+
+[MENU_333] ; IDR_CONTEXTS_33
+
+[MENU_334] ; IDR_CONTEXTS_34
+
+[MENU_335] ; IDR_CONTEXTS_35
+
+[MENU_336] ; IDR_CONTEXTS_36
+
+[MENU_337] ; IDR_CONTEXTS_37
+
+[MENU_338] ; IDR_CONTEXTS_38
+
+[MENU_339] ; IDR_CONTEXTS_39
+
+[MENU_340] ; IDR_TOOLBAR_CONTEXT
+0EDB78ECDD1F48E1=Customise this toolbar...
+
+[MENU_341] ; IDR_CONTEXTS_41
+
+[MENU_342] ; IDR_CONTEXTS_42
+
+[MENU_343] ; IDR_CONTEXTS_43
+
+[MENU_344] ; IDR_CONTEXTS_44
+
+[MENU_345] ; IDR_CONTEXTS_45
+
+[MENU_346] ; IDR_CONTEXTS_46
+
+[MENU_347] ; IDR_CONTEXTS_47
+
+[MENU_348] ; IDR_CONTEXTS_48
+
+[MENU_349] ; IDR_TOOLBARCTX
+820BD2CADF2656A5=Customise toolbar...
+
+[MENU_350] ; IDR_CONTEXTS_50
+
+[MENU_351] ; IDR_CONTEXTS_51
+
+[MENU_352] ; IDR_CONTEXTS_52
+
+[MENU_427] ; IDR_RECSETTINGS
+
+[MENU_428] ; IDR_TOOLBARS
+
+[MENU_497] ; IDR_PROJBAY
+
+[about]
+8B9A76F494C70F92=Are you sure you wish to remove the current license key?\r\n\r\n(you must have a copy of the key file in order to re-authorise this installation)
+
+[accel_sec]
+
+[access]
+
+[actiondialog]
+
+[actionlist]
+
+[actions]
+6F4056EFBF94BC1A=Project tabs: Synchronise play start times w/ play background projects
+532A77083BADBD31=Options: Switch to next colour theme
+618F5275A4493071=Options: Switch to previous colour theme
+0F28A798227CA8EA=Options: Switch to a random colour theme
+AEC65B546F6F48C4=Show colour theme element finder
+358445195A145C59=Markers: Change colour for marker at edit cursor...
+E792C729E0E44F23=Markers: Change colour for region at edit cursor...
+A08C846847F7E384=View: Expand selected track height, minimise others
+32CDC4DB624CFFB9=View: Minimise all tracks
+89FBD71E94102D7A=Item properties: Normalise items
+1844CE04FC0854E3=Item properties: Normalise multiple items to common gain
+7A8B034C54632396=Item properties: Normalise items (reset to unity if already normalised)
+6F225957A42BA87D=Item properties: Normalise multiple items to common gain (reset to unity if already normalised)
+00B213EBE008A4B7=Item properties: Reset item take gain to +0dB (un-normalise)
+4B4EB17883C70535=Colours: Reset random colour generator
+E0AEA2924A52EE5B=Item: Quantise item positions to grid...
+F0754E165081CFBD=Markers: Quantise tempo markers to MIDI resolution
+8BAC007AA6F7032F=Envelope: Reset selected points to zero/centre
+D3F7525A66DDBD2F=Track: Set to custom colour...
+E2F30C176963CA94=Track: Set to random colours
+8734FF1F84F4FDC7=Track: Set to one random colour
+27E2F99862BE7E47=Track: Set to default colour
+9EE367320A535175=Item: Set to custom colour...
+05FCD2100E82D87A=Item: Set to random colours
+13CDBA268851481D=Item: Set to one random colour
+F180198B761D7939=Item: Set to default colour
+F0A8CD41F6C3191E=Take: Set active take to custom colour...
+A67C5A9F2FA2AC88=Take: Set active take to one random colour
+3BAB80394D808F72=Take: Set active take to default colour
+ACC6B498BC94AD9E=Take: Set all takes of selected items to default colour
+2FCD1E45E5E6B210=Take: Set all takes created in the same recording pass to custom colour...
+DE52F88531F8ADE2=Take: Set all takes created in the same recording pass to one random colour
+DD9F5EE6DF45D828=Take: Set all takes created in the same recording pass to default colour
+8533008EAB2DF95A=Minimise REAPER
+FF1A1A19DD5ECAEC=Transport: Centre transport controls
+4B59D9E65E7F89BD=Menu: Customise...
+478126B35CB13756=Toolbars: Customise...
+
+[actions_fmt]
+
+[actions_sub]
+
+[aliasdlg]
+
+[au]
+
+[audiodev]
+
+[automute]
+
+[bigclock]
+
+[bounce]
+
+[caption]
+
+[comp]
+
+[configexport]
+D1E63BFD73436688=Colour themes
+
+[convert]
+
+[cpumeter]
+
+[customaction]
+
+[customizemenu]
+60761F79AE7C6D51=Customised toolbar:
+56CCAC0E8900FBFD=Reset all customised toolbars to default? Note: this cannot be undone!
+601D766EE84F0CA9=Reset all customised menus to default? Note: this cannot be undone!
+
+[dirclean]
+
+[docker]
+
+[dsplit]
+
+[dx]
+
+[env]
+
+[envdlg]
+
+[envdlg_heading]
+
+[envmenu]
+
+[envname]
+
+[epin]
+
+[explorer]
+
+[explorer_DLG_101] ; IDD_MAIN
+
+[explorer_DLG_102] ; IDD_SEXPLORER
+
+[explorer_DLG_103] ; IDD_SEXPLORER_LIST
+
+[explorer_DLG_134] ; IDD_DBBUILD
+
+[explorer_MENU_103] ; IDR_CONTEXTMENU
+
+[explorer_MENU_104] ; IDR_MENU1
+
+[explorer_actions]
+
+[explorer_col]
+
+[explorer_mbox]
+
+[explorer_menu]
+
+[exttc]
+
+[filecopy]
+
+[freeze]
+
+[freezedesc]
+
+[fx]
+
+[fxadd]
+
+[fxmenu]
+
+[glue]
+EFB392AE3E8CB964=Project tempo markers have been quantised to MIDI resolution!\r\nOK to continue, cancel to undo quantization and cancel export.
+
+[gridsnap]
+
+[group]
+
+[grouping]
+
+[help]
+
+[import]
+
+[item]
+
+[itemchan]
+
+[itemfn]
+
+[itemimport]
+
+[itemprop]
+
+[joystick]
+
+[knob]
+
+[marker]
+
+[mbox]
+C90AF6BF6253BD9E=No customised items selected
+69D9CFD7AFB7A82B=Items could not be normalised to each other because one or more lack peak information
+F37426E7C5834E16=Note: %d items could not be normalised because they lack peak information
+B39DFED992FCB88A=Error sending packet to ReaMote host (is your blocksise too large?). ReaMote disabled for chain
+948B5857800727B3=Import customised \"%s\"?\r\n\r\nIf you have previously customised \"%s\", your changes will be lost unless you export them first!\r\n\r\n(To export, choose \"Customise menus/toolbars\" from the Options menu.)
+5055108D8EF82813=Import custom menu/toolbar set?\r\n\r\nIf you have previously customised menus or toolbars, your changes will be lost unless you export them first!\r\n\r\n (To export, choose \"Customise menus/toolbars\" from the Options menu.)
+FD2194EDB7789EAF=Initialising ReaRoute...
+E705401744D93ED5=Initialising Registration Info...
+
+[menu]
+
+[menus]
+
+[meter]
+
+[metronome]
+
+[midi]
+A18A57ED9326617F=Load MIDI colour map from file:
+
+[midi_DLG_102] ; IDD_EDIT
+73A9475DDD11219C=Colour:
+
+[midi_DLG_109] ; IDD_RENAME_ITEM
+
+[midi_DLG_118] ; IDD_RAWMIDI
+
+[midi_DLG_120] ; IDD_WAVEITEMINFO
+
+[midi_DLG_121] ; IDD_QUANTIZE
+0790B9C557D74789=Quantise Events
+D192E5EF7BB75BF6=Quantise:
+798A9AD9E5AAC9E0=Do not quantise events that are:
+5D2266B2756F4667=Nearly quantised:
+B7AB7415AC420B39=Far from quantised:
+
+[midi_DLG_122] ; IDD_SYXINFO
+
+[midi_DLG_123] ; IDD_NOTEPROP
+
+[midi_DLG_124] ; IDD_EVTPROP
+
+[midi_DLG_125] ; IDD_BANKPROGSELECT
+
+[midi_DLG_126] ; IDD_HUMANIZE
+B4D5B40BD78A0227=Humanise Notes
+
+[midi_DLG_127] ; IDD_TEXTEDIT
+
+[midi_DLG_128] ; IDD_FILTER_EVTS
+
+[midi_DLG_129] ; IDD_SYSEXEDIT
+
+[midi_DLG_133] ; IDD_LOADGROOVE
+
+[midi_DLG_134] ; IDD_GROOVEEDIT
+
+[midi_DLG_135] ; IDD_TRANSPOSE
+
+[midi_MENU_103] ; IDR_CONTEXTMENU
+
+[midi_MENU_104] ; IDR_MENU
+
+[midi_MENU_105] ; IDR_MENU_ALLINONE
+
+[midi_MENU_106] ; IDR_CONTEXTMENU2
+
+[midi_MENU_108] ; IDR_CONTEXTMENU_INLINE
+
+[midi_MENU_112] ; IDR_PIANO_TOOLBAR
+
+[midi_MENU_113] ; IDR_EVTLIST_TOOLBAR
+
+[midi_MENU_114] ; IDR_VIEWMODE_CTX
+
+[midi_MENU_119] ; IDR_VELLANE_CTX
+
+[midi_actions]
+BA10609226525607=Quantise notes using last quantise dialog settings
+85712914E6BCC16B=Quantise notes position to grid
+9F2237C4D6CADCAB=Quantise notes position and end to grid
+9C429EAD1ED67B9B=Quantise events using last quantise dialog settings
+4FE17A6F27A23BEA=Quantise events to grid
+7F2CA69A31ED0C2C=Load colour map from file
+FC7A729301A5929F=Colour notes by velocity
+C469BE099CF02AB0=Colour notes/CC by channel
+543885DA3E388EEA=Colour notes by pitch
+4A557FF0605F84EB=Colour notes/CC by source, using colormap
+43AF386E07B7A3B4=Colour notes/CC by track custom colour
+FABD1A5FFA01D96A=Colour notes/CC by media item custom colour
+B748AC88A4541209=Options: display note/CC colour selector at bottom of MIDI editor
+5AC00BBE6D34367C=Options: Synchronise transport with main transport
+DF61F9F93739802F=Customise MIDI editor toolbar
+
+[midi_cols]
+
+[midi_et]
+
+[midi_filt]
+
+[midi_menu]
+
+[midi_undo]
+F515CCA56574AFC7=Humanise notes
+C8A2E6B6659A8CA9=Quantise events
+
+[midilearn]
+
+[misc]
+
+[missfile]
+
+[mixer]
+
+[mousemap]
+
+[mousemaps]
+
+[navigator]
+
+[notes]
+
+[nudge]
+
+[pan]
+
+[pandlg]
+
+[panlaw]
+
+[parmmod]
+
+[peaksbuild]
+
+[pinmgr]
+
+[pitchenvcfg]
+
+[pitchshift]
+
+[prefs]
+
+[prefs_appear_help]
+269292112C124C8B=If a track has a custom colour set, set the background colour of the track label field to be the track colour.
+A1B41ACA950BEC8B=If a track has a custom colour set, tint the track's panel backgrounds to the custom colour.
+A7B566458D7B1070=Fill automation envelopes with colour, for easier reading but a slight performance penalty. (Media item fade area curve fills use a theme setting.)
+4633445F44D0C872=Fill automation envelopes with colour when drawing envelopes over media, for easier reading but a slight performance penalty.
+69DF4E149CC7D94A=Use the play cursor colour and blend settings in the colour theme, for a more visible play cursor but a slight performance cost.
+
+[prefs_audio_help]
+
+[prefs_audiodev]
+
+[prefs_audiodev_asio_help]
+
+[prefs_audiodev_help]
+
+[prefs_buf]
+
+[prefs_buf_help]
+E565AD880D79DFEF=When per-take FX are showing, use a lower media buffer size to minimise lag between audio playback and the visual response of the plugin.
+9B66C717E0F66095=Synchronised multiprocessing allows live monitoring to be multiprocessed in addition to media/FX, but isn't ideal for low latency performance.
+33FB975AE93ED1CE=Use system events for timing and synchronising. Recommended for Windows and OS X, not for WINE.
+
+[prefs_dx_help]
+
+[prefs_edit]
+68A4FA0E1BCE8F2A=Track at centre of view
+C94DCA651A8805D8=Centre of view
+
+[prefs_edit_help]
+6CB151FAA58C5678=Where to centre when zooming vertically.
+1A6CDD77351C8E84=Where to centre when zooming horizontally
+
+[prefs_env]
+
+[prefs_env_help]
+
+[prefs_env_pitch]
+
+[prefs_extedit]
+
+[prefs_fader]
+
+[prefs_gen_help]
+
+[prefs_itemdefs_help]
+
+[prefs_kbd_help]
+
+[prefs_list]
+
+[prefs_media]
+F69875F73CA2B854=Choose MIDI colour map:
+
+[prefs_media_help]
+
+[prefs_mediapeaks_help]
+0CBBA2FECE54C31B=Draw a colored edge (defined in the colour theme) around media item peaks.
+B53CC1EBC747DC97=Draw a colored edge (defined in the colour theme) around media item waveforms (when there is at least one screen pixel per audio sample).
+552FFF6EB1C353C7=Draw a colored edge (defined in the colour theme) around MIDI notes in media items.
+67C8378720291149=Choose whether media item waveform peaks are tinted by custom track, item, or take colours.
+C58E75B0A0A49547=Choose whether media item backgrounds are tinted by custom track, item, or take colours.
+D073F1E4A3995006=Tint media item waveform peaks by the custom track colour, if any.
+2E7F42804576DCE1=Tint media item waveform peaks by the custom item colour, if any. This overrides a custom track colour.
+C48885587DD80ED5=Tint media item waveform peaks by the custom take colour, if any. This overrides a custom track or item colour.
+24D818D0D947F1CE=Tint media item backgrounds by the custom track colour, if any.
+D8B41F3E2D48A2E9=Tint media item backgrounds by the custom item colour, if any. This overrides a custom track colour.
+8D47985E6DC6579D=Tint media item backgrounds by the custom take colour, if any. This overrides a custom track or item colour.
+874305DCC542D3B7=How much custom colour to blend into the selected media item background. Zero means do not use the custom colour.
+6D3D71AF5A33B246=How much custom colour to blend into the unselected media item background. Zero means do not use the custom colour.
+ACFD88EDCFBD71EA=When recording, automatically apply the same colour to all takes that are created in the same recording pass.
+A8F1D583CFA16BC8=Automatically apply the same colour to all MIDI media items that share the same pooled (ghosted) MIDI source data.
+F36541511CD33299=Custom take colours override custom item colours, which override custom track colours. You can also set colours from the track and item context menus.
+
+[prefs_mediavu_help]
+
+[prefs_meter_help]
+
+[prefs_midi_help]
+
+[prefs_mididev]
+
+[prefs_mididev_help]
+
+[prefs_midiedit_help]
+B903973979C81B00=Show a brief colour flash on the MIDI editor keyboard when the track receives MIDI note-on input.
+1A7A22B9337D0931=CC event drawing density will be greatre when the view is zoomed in, and lower when zoomed out.
+C486CCEB98553CDB=Colormap image to use for drawing notes in the MIDI editor. If no colormap is specified here, the colormap in the current colour theme will be used.
+
+[prefs_mouse]
+
+[prefs_mouse_help]
+
+[prefs_path_help]
+
+[prefs_playback_help]
+
+[prefs_plugin]
+
+[prefs_plugin_help]
+
+[prefs_plugin_knob]
+
+[prefs_plugincompat_help]
+811F90A56BF55F69=Test all plug-in input and output for denormalised sample values (meaninglessly small values that can cause very high CPU use).
+749C7A00C3C0114E=Clear plug-in output buffers before passing them to the plug-in. Some plug-ins can output occasional uninitialised buffers, which makes bad loud noises.
+
+[prefs_project_help]
+
+[prefs_reamote]
+
+[prefs_reascript]
+
+[prefs_reascript_help]
+
+[prefs_record_help]
+6470DCD830DD71D7=Customise the filename that is automatically created for new recordings.
+
+[prefs_render_help]
+91CB7FE93510C1F4=Sets the audio block size used when rendering. It is recommended that you leave this blank, which will automatically use the last audio blocksise used.
+
+[prefs_track]
+
+[prefs_trackdefs_help]
+
+[prefs_video_help]
+
+[prefs_vst_help]
+
+[projbay]
+
+[projload]
+66188504FD7D25AD=Project tokens not recognised:
+
+[projsave]
+
+[projsettings]
+
+[ps_dle]
+
+[ps_e]
+E71804A85237B88B=Synchronised: 
+
+[radar]
+
+[reamote]
+786B77ED1C68BA55=Can't initalise DSP \"%s\" on the Reamote slave!\r\n\r\nPossible causes might be out of date version or plugin not installed on the Reamote slave computer.\r\n\r\nAborting operation!
+
+[reascript]
+6FEA417D3179FC3C=Can't initialise Python
+4F95C23132050112=Can't initialise Python interpreter
+2D87BAF6EEC6F654=Failed to load/initialise reascript\r\n
+
+[reccfg]
+
+[recmenu]
+ECAF11E2B0ADF073=Track recording settings (Input Quantise, Format, etc)...
+
+[recordmode]
+
+[reg]
+
+[region]
+
+[regmgr]
+
+[regmgr_help]
+
+[render]
+
+[render_month]
+
+[renderq]
+
+[resample]
+
+[rescript]
+
+[rewire]
+
+[routdlg]
+
+[routdlg_heading]
+
+[routing]
+
+[rppsrc]
+
+[saveas]
+
+[scale]
+
+[screenset]
+
+[sendmenu]
+
+[sendwnd]
+
+[silence]
+
+[splash]
+2549BF449F59124E=Initialising UI Classes...
+C3ED77175FF7A80D=Initialising Main Window...
+AA015E3EE6811B88=Initialising ReWire Slave Mode
+84B0AC419AB12F3D=Initialising ReaMote...
+95C14C31E2DBB229=Initialising Control Surfaces...
+
+[status]
+
+[theme]
+823C90884A4B7B4A=Theme overrides normal Windows colours for main background/text/edit:
+543E86147B64D972=Main window text shadow (ignored if too close to text colour)
+E7915E3E6A099632=Toolbar button armed colour
+B6E3CE32B4EAB6D8=Theme overrides normal Windows colours for non-selected track control panels
+206A0AE4AD7D14DA=Locked track control panel overlay colour
+00234E8B36F6536B=Time selection colour
+51E359BFAEE7B3EA=Media item fade quiet zone fill colour
+DC3C68B2E219902E=Media item fade full area fill colour
+86120892792FBFAF=Selected media item bar colour
+2C49E16D76F3812D=Active media item take bar colour
+08EC1AB0075E7F9E=Editing guide line colour
+DB58195D4530C671=VU meter interlace/edge colour
+636F261F8F1D7D1F=MIDI editor background colour (naturals)
+F7E75A9EC7477A83=MIDI editor background colour (sharps/flats)
+8E6F804DD8F4E46D=MIDI editor time selection colour
+2EE9A7EA04A0B02A=MIDI editor octave line colour
+CC1C67F2A73FEECB=MIDI inline background colour (naturals)
+B3E317CA0AD0438F=MIDI inline background colour (sharps/flats)
+80794FA6DF523A96=MIDI inline octave line colour
+FB09009EF1D7956C=MIDI piano key colour (naturals)
+7102190FC6AA20F8=MIDI piano key colour (sharps/flats)
+9314A33FA166497D=MIDI piano key colour (selected)
+97AB94C1C2CF161F=MIDI editor note/CC text colour (light)
+EA0648A2D0CB48F7=MIDI editor note/CC text colour (dark)
+
+[title]
+
+[toolbar]
+
+[tooltip]
+DA192334A9AAB304=Pan(L): %s (double click to set to centre)
+CD150E479821A143=Pan: %s (double click to set to centre)
+B202F17E64D390EA=Pan(R): %s (double click to set to centre)
+
+[track]
+
+[trackmgr]
+
+[trackmgr_help]
+
+[trackrecstatus]
+
+[transport]
+DE52D01EAD59A275=Record: Synchronising
+7E0A33A911327680=Synchronising
+
+[undo]
+C61BA44B533B893D=Toggle Item Normalise
+57AC74F098545863=Item Normalise
+052C8BFB5DD84F03=Toggle Multiple Item Normalise
+96AEDE790758E855=Multiple Item Normalise
+A2C2DB833CE4839C=Quantise Items
+7896DCE9C1589895=Quantise tempo map
+A8DB5D299ABE5C3D=Set track colour
+9A5B948053ACC49F=Set item colour
+45E1EA4DE02F1C8B=Set take colour
+C96348B8910C32FF=Set colour for all takes with the same recording pass
+6FC5EC55AB10F7DC=Change marker colour
+91ADEE4CF2002EFA=Change region colour
+4A665DD58AD8A2B4=Quantise MIDI tempo map
+43FF7B8018FA441E=Set track colour via manager
+
+[undohist]
+
+[verchk]
+
+[vkb]
+
+[vol]
+
+[vst]
+
+[warn]
+5AB5CB0EC24B9CDE=WARNING: REAPER is configured to warn you when memory use is %uMB or greatre, and memory use is currently %uMB.
+
+[wavcfg]
